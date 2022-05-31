@@ -1,0 +1,13 @@
+<template>
+  <list class="bg-red h-[50vh]"></list>
+</template>
+
+<script src="./index.ts"></script>
+
+<script type="application/json">
+  {
+    "usingComponents": {
+      "list": "../components/list"
+    }
+  }
+</script>
